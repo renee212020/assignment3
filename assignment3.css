@@ -39,7 +39,6 @@ body{
 	margin: 225px 0px 0px 0px;
 	background-color:#FAF9DF;
 	padding-top:20px;
-	border: black 1px solid;
 	text-align:center;
 	font-weight: bold;
 	font-family: sans-serif;
@@ -63,7 +62,7 @@ body{
 	float: left;
 	padding-top: 450px;
 	position: absolute;
-  left:10px;
+  left:140px;
 
 }
 
@@ -71,9 +70,9 @@ body{
 	height:100px;
 	width: 160px;
 	float: right;
-  left: 600px;
+right: 140px;
 	padding-top:70px;
-	position: absolute;}
+	position: absolute;;}
 
 #rightbody{
 	float:right;
