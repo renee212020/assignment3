@@ -62,17 +62,17 @@ body{
 	float: left;
 	padding-top: 450px;
 	position: absolute;
-  left:140px;
-
+  left:260px;
 }
 
 .sign{
 	height:100px;
 	width: 160px;
 	float: right;
-right: 140px;
+	right: 250px;
 	padding-top:70px;
-	position: absolute;;}
+  position: absolute;}
+
 
 #rightbody{
 	float:right;
